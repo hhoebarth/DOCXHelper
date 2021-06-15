@@ -12,10 +12,10 @@ public class Main {
     public static void main( String[] args )
     {
     	try {
-	    	String input_DOCX = "C:/041VBE004-01-Tes1t.docx";
+	    	String input_DOCX = "C:/041VBE004-01-Test1.docx";
 			
 			// the instance data
-			String input_XML = "C:/Test.xml";
+			String input_XML = "C:/Test1.xml";
 					
 			// resulting docx
 			String OUTPUT_DOCX = "C:/VBE-MERGED.docx";
